@@ -68,3 +68,4 @@ function hasil(nil1, nil2, oper) {
   }
   return hasil_hitung; //30
 }
+//document.getElementById("nilai1").value = "";
